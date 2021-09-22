@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="54" viewBox="0 0 55 54">
+<defs>
+<clipPath id="vcvwaa70la">
+<path fill="#fff" stroke="#707070" d="M0 0H30.121V30.121H0z"/>
+</clipPath>
+</defs>
+<g>
+<g fill="none" stroke="#fff" stroke-miterlimit="10" transform="translate(0 0) translate(0 0)">
+<circle cx="27" cy="27" r="27" stroke="none"/>
+<circle cx="27" cy="27" r="26.5"/>
+</g>
+<g clip-path="url(#vcvwaa70la)" transform="translate(0 0) translate(12.132 12.132)">
+<path fill="#fff" d="M8.31 26.773a.462.462 0 1 1 0-.923h2.308v-2.332a7.389 7.389 0 0 1-6.052-3.888L.788 23.405a.454.454 0 0 1-.326.136.456.456 0 0 1-.328-.136.462.462 0 0 1 0-.652l4.03-4.028a7.3 7.3 0 0 1-.47-2.57v-2.77a.462.462 0 0 1 .923 0v2.77A6.484 6.484 0 0 0 4.888 18L20.91 1.98a.462.462 0 0 1 .652.654L5.255 18.938a6.457 6.457 0 0 0 12.286-2.783v-2.77a.462.462 0 1 1 .923 0v2.77a7.388 7.388 0 0 1-6.923 7.362v2.332h2.309a.462.462 0 1 1 0 .923zm-1.546-7.956l9.393-9.4v6.734a5.073 5.073 0 0 1-9.393 2.662zM6 5.076a5.078 5.078 0 0 1 10.155 0v.27L6 15.5z" transform="translate(4.183 2.511)"/>
+</g>
+</g>
+</svg>

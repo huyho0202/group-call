@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_305_8" width="44" height="44" viewBox="0 0 44 44">
+<defs>
+<clipPath id="clip-path">
+<path id="Rectangle_1625" d="M0 0H32V32H0z" class="cls-1"/>
+</clipPath>
+<clipPath id="clip-path-2">
+<path id="Rectangle_51" d="M0 0H24V24H0z" class="cls-1"/>
+</clipPath>
+<style>
+.cls-1{fill:#fff}
+</style>
+</defs>
+<g id="Component_121_75">
+<path id="Oval_3" fill="#fff" d="M22 0A22 22 0 1 1 0 22 22 22 0 0 1 22 0z" opacity="0.297"/>
+</g>
+<g id="icon" transform="translate(10 10)">
+<g id="Group_10" clip-path="url(#clip-path-2)">
+<path id="Union_179" d="M-16105.334-13400.333a2.667 2.667 0 0 1 2.667-2.667 2.667 2.667 0 0 1 2.667 2.667 2.667 2.667 0 0 1-2.667 2.666 2.667 2.667 0 0 1-2.667-2.666zm-9.331 0a2.666 2.666 0 0 1 2.665-2.667 2.663 2.663 0 0 1 2.662 2.667 2.662 2.662 0 0 1-2.662 2.666 2.666 2.666 0 0 1-2.665-2.666zm-9.335 0a2.666 2.666 0 0 1 2.666-2.667 2.666 2.666 0 0 1 2.667 2.667 2.666 2.666 0 0 1-2.667 2.666 2.666 2.666 0 0 1-2.666-2.666z" class="cls-1" transform="translate(16124 13412)"/>
+</g>
+</g>
+</svg>

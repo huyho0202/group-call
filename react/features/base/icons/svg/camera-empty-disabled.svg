@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_121_82" width="54" height="54" viewBox="0 0 54 54">
+<defs>
+<clipPath id="clip-path">
+<path id="Rectangle_51" d="M0 0H29V29H0z" class="cls-1"/>
+</clipPath>
+<style>
+.cls-1{fill:#fff}
+</style>
+</defs>
+<g id="Oval_3" fill="none" stroke="#fff" stroke-miterlimit="10">
+<circle cx="27" cy="27" r="27" stroke="none"/>
+<circle cx="27" cy="27" r="26.5"/>
+</g>
+<g >
+<path fill="#fff" d="M14.325 16.362H2.037A2.039 2.039 0 0 1 0 14.325V2.037A2.039 2.039 0 0 1 2.037 0h12.288a2.039 2.039 0 0 1 2.037 2.037v12.288a2.039 2.039 0 0 1-2.037 2.037zM23.173 15a1.367 1.367 0 0 1-.778-.245l-4.67-3.217v-6.71L22.4 1.606a1.372 1.372 0 0 1 .778-.244 1.407 1.407 0 0 1 .951.376 1.311 1.311 0 0 1 .419.968v10.946a1.312 1.312 0 0 1-.419.969 1.407 1.407 0 0 1-.956.379z" transform="translate(14 14) translate(1.116 5.02)"/>
+</g>
+</svg>
